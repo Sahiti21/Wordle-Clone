@@ -1,15 +1,15 @@
 {
-  "main.css": "/Wordle-Clone/static/css/main.568985db.chunk.css",
-  "main.js": "/Wordle-Clone/static/js/main.c255a7e0.chunk.js",
-  "main.js.map": "/Wordle-Clone/static/js/main.c255a7e0.chunk.js.map",
+  "main.css": "/Wordle-Clone/static/css/main.70bd4022.chunk.css",
+  "main.js": "/Wordle-Clone/static/js/main.566a6cb2.chunk.js",
+  "main.js.map": "/Wordle-Clone/static/js/main.566a6cb2.chunk.js.map",
   "static/js/1.fd6f1881.chunk.js": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js",
   "static/js/1.fd6f1881.chunk.js.map": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js.map",
   "runtime~main.js": "/Wordle-Clone/static/js/runtime~main.8557c50a.js",
   "runtime~main.js.map": "/Wordle-Clone/static/js/runtime~main.8557c50a.js.map",
   "static/media/wordle-bank.txt": "/Wordle-Clone/static/media/wordle-bank.c09ce21e.txt",
   "static/media/App.css": "/Wordle-Clone/static/media/background-img.a0883a53.jpg",
-  "static/css/main.568985db.chunk.css.map": "/Wordle-Clone/static/css/main.568985db.chunk.css.map",
+  "static/css/main.70bd4022.chunk.css.map": "/Wordle-Clone/static/css/main.70bd4022.chunk.css.map",
   "index.html": "/Wordle-Clone/index.html",
-  "precache-manifest.d8b984f01354288ba754128e1b4a34f7.js": "/Wordle-Clone/precache-manifest.d8b984f01354288ba754128e1b4a34f7.js",
+  "precache-manifest.5ca656dd639a9b407052fc43d1437f6d.js": "/Wordle-Clone/precache-manifest.5ca656dd639a9b407052fc43d1437f6d.js",
   "service-worker.js": "/Wordle-Clone/service-worker.js"
 }
