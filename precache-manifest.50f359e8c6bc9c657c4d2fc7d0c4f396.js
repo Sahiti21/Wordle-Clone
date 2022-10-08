@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "28e58e696ba3ca80eb7a",
+    "revision": "81b0e7af83b67834486f",
     "url": "/Wordle-Clone/static/css/main.568985db.chunk.css"
   },
   {
-    "revision": "28e58e696ba3ca80eb7a",
-    "url": "/Wordle-Clone/static/js/main.28e58e69.chunk.js"
+    "revision": "81b0e7af83b67834486f",
+    "url": "/Wordle-Clone/static/js/main.81b0e7af.chunk.js"
   },
   {
     "revision": "fd6f18819167fcd43d01",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Wordle-Clone/static/media/background-img.a0883a53.jpg"
   },
   {
-    "revision": "9013492b08a5ae5acfbc1ac1f3f5c51e",
+    "revision": "2af9b6e4a4f1fa8a4921da029aa69637",
     "url": "/Wordle-Clone/index.html"
   }
 ];

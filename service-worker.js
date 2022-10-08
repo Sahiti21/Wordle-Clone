@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Wordle-Clone/precache-manifest.16f6f21e6dbdd718395ab194d7fb7b62.js"
+  "/Wordle-Clone/precache-manifest.50f359e8c6bc9c657c4d2fc7d0c4f396.js"
 );
 
 workbox.clientsClaim();

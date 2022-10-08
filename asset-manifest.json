@@ -1,7 +1,7 @@
 {
   "main.css": "/Wordle-Clone/static/css/main.568985db.chunk.css",
-  "main.js": "/Wordle-Clone/static/js/main.28e58e69.chunk.js",
-  "main.js.map": "/Wordle-Clone/static/js/main.28e58e69.chunk.js.map",
+  "main.js": "/Wordle-Clone/static/js/main.81b0e7af.chunk.js",
+  "main.js.map": "/Wordle-Clone/static/js/main.81b0e7af.chunk.js.map",
   "static/js/1.fd6f1881.chunk.js": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js",
   "static/js/1.fd6f1881.chunk.js.map": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js.map",
   "runtime~main.js": "/Wordle-Clone/static/js/runtime~main.8557c50a.js",
@@ -10,6 +10,6 @@
   "static/media/App.css": "/Wordle-Clone/static/media/background-img.a0883a53.jpg",
   "static/css/main.568985db.chunk.css.map": "/Wordle-Clone/static/css/main.568985db.chunk.css.map",
   "index.html": "/Wordle-Clone/index.html",
-  "precache-manifest.16f6f21e6dbdd718395ab194d7fb7b62.js": "/Wordle-Clone/precache-manifest.16f6f21e6dbdd718395ab194d7fb7b62.js",
+  "precache-manifest.50f359e8c6bc9c657c4d2fc7d0c4f396.js": "/Wordle-Clone/precache-manifest.50f359e8c6bc9c657c4d2fc7d0c4f396.js",
   "service-worker.js": "/Wordle-Clone/service-worker.js"
 }
