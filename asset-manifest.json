@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.5908d238.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.b7564abe.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.b7564abe.chunk.js.map",
-  "static/js/1.fd6f1881.chunk.js": "/react-gh-pages/static/js/1.fd6f1881.chunk.js",
-  "static/js/1.fd6f1881.chunk.js.map": "/react-gh-pages/static/js/1.fd6f1881.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/media/wordle-bank.txt": "/react-gh-pages/static/media/wordle-bank.c09ce21e.txt",
-  "static/media/App.css": "/react-gh-pages/static/media/background-img.a0883a53.jpg",
-  "static/css/main.5908d238.chunk.css.map": "/react-gh-pages/static/css/main.5908d238.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.f92cc323ec2b78380bfcde6300335b3d.js": "/react-gh-pages/precache-manifest.f92cc323ec2b78380bfcde6300335b3d.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/Wordle-Clone/static/css/main.568985db.chunk.css",
+  "main.js": "/Wordle-Clone/static/js/main.28e58e69.chunk.js",
+  "main.js.map": "/Wordle-Clone/static/js/main.28e58e69.chunk.js.map",
+  "static/js/1.fd6f1881.chunk.js": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js",
+  "static/js/1.fd6f1881.chunk.js.map": "/Wordle-Clone/static/js/1.fd6f1881.chunk.js.map",
+  "runtime~main.js": "/Wordle-Clone/static/js/runtime~main.8557c50a.js",
+  "runtime~main.js.map": "/Wordle-Clone/static/js/runtime~main.8557c50a.js.map",
+  "static/media/wordle-bank.txt": "/Wordle-Clone/static/media/wordle-bank.c09ce21e.txt",
+  "static/media/App.css": "/Wordle-Clone/static/media/background-img.a0883a53.jpg",
+  "static/css/main.568985db.chunk.css.map": "/Wordle-Clone/static/css/main.568985db.chunk.css.map",
+  "index.html": "/Wordle-Clone/index.html",
+  "precache-manifest.16f6f21e6dbdd718395ab194d7fb7b62.js": "/Wordle-Clone/precache-manifest.16f6f21e6dbdd718395ab194d7fb7b62.js",
+  "service-worker.js": "/Wordle-Clone/service-worker.js"
 }
