@@ -50,6 +50,13 @@ function App() {
         letter: 0
       });
       if (currAttempt.attempt === 5) {
+         if (currWord.toLowerCase() === correctWord.toLowerCase()) {
+      setGameOver({
+        gameOver: true,
+        guessedWord: true
+      });
+      return;
+    }
         setGameOver({
           gameOver: true,
           guessedWord: false
